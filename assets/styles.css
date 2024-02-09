@@ -2,11 +2,11 @@
   --light-grey: #f5f6f7;
   --dark-blue: #0a0a23;
   --fcc-blue: #1b1b32;
-  --light-yellow: #ffd700;
-  --dark-yellow: #ffa500;
-  --light-pink: #ffb6c1;
-  --dark-red: #8b0000;
-  --light-green: #7fff00;
+  --light-yellow: #ffeb3b;
+  --dark-yellow: #fbc02d;
+  --light-pink: #f48fb1;
+  --dark-red: #e57373;
+  --light-green: #81c784;
 }
 
 body {
